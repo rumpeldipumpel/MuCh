@@ -5,6 +5,8 @@ $(document).ready( function() {
 	}
 );
  
+var dbg = false;
+
 function MCDAF(options) {
 	console.log('init MCDAF');
 
@@ -27,7 +29,7 @@ function MCDAF(options) {
  		
 		if( this.currentQ.idx == this.numbOfQ -1 )
 		{
-			console.log('isLastQ: is last!');
+			if(dbg) console.log('isLastQ: is last!');
 			return 1;			
 		} 		/*if*/
 

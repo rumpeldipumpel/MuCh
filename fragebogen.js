@@ -16,6 +16,17 @@ var fragebogen = {
 				{
 				"frage":"Präteritum von kaufen",
 				"antworten":["kaufte","kuf","gekauft","küfte"]
+				},
+				{
+				"frage":"Tante Erna hat drei Kinder, alle sind schon <b>fett</b>. Was nun?",
+				"antworten":[
+					"1",
+					"Rumpeldipumpel",
+					"Woher soll man das wissen? Die Frage ist unverständlich!",
+					"Keine Eier"
+					]
 				}
-	]
-};
+				
+			]
+	
+		};

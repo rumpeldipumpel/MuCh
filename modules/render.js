@@ -10,10 +10,10 @@ MCDAF.prototype.writeMC = function(qidx) {
 	var fragestellung = fragebogen.fragen[qidx];
 	var questionstr = fragestellung.frage;
 	
-	console.log('rendering: questionstr:'+questionstr );
+	if(dbg) console.log('rendering: questionstr:'+questionstr );
  	$('#question').html(this.visTools.vertAligned( questionstr ),'left');
-   $('#question').autoSize('autoTextSize',{minSize:15,maxSize:100});	
-	
+   /*$('#question').autoSize('autoTextSize',{minSize:15,maxSize:100});*/	
+	$('#question').autoSize('autoTextSize',{'debug':true});
 	
 	var antworten = fragestellung.antworten; 
 	var moeglichkeiten = antworten.length;	

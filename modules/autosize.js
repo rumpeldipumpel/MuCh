@@ -1,92 +1,141 @@
 
 (function ($) {
-
-    var methods = {
-
-	init: 
-    function (options) {
-    },
-
-
-getTextHeight : 
-    function(fontsize) {
-	var divText = $("BODY #autosizespan");
-	var divTextCont = $("BODY #autosizecont");
-	var height=0;
-	var dbg=0;
-
-	divTextCont.css( {
-	    "width": parseInt( this.css('width')),
-    	});
-
-	divText.text(this.text());
-
-	if(fontsize) {
-	    if(dbg) console.log('getTextHeight: set fontSize '+fontsize);
-	    divText.css('fontSize',fontsize);
-	}
-
-	height = divTextCont.innerHeight()+'px';
-	if(dbg)	console.log('getTextHeight: return height '+height);
-	return height;
-    },
-
-autoTextSize : 
-    function(options){
-	var settings = {
-	    minSize:12,
-	    maxSize:25,
-	    debug:0
-	};
-
-	return this.each(function() { 
-	    if(options) $.extend(settings,options);
-	    var dbg=settings.debug;
-	    //dbg=1;
-	    //init with min-size so overflow hopefully won't falsify innerHeight value
-	    $(this).css('font-size',settings.minSize);
-	    var _self = $(this);
-
-	    _height=$(this).innerHeight();
-	    _textHeight = parseInt(
-		_self.autoSize('getTextHeight',settings.maxSize)
-		);
-	    _fontSize = settings.maxSize;
-
-	    if(dbg) console.log('autoTextSize: '+this.id
-		+'.innerHeight:'+_height+' textheight:'
-		+_textHeight+' - setting fontsize to '
-		+_fontSize);
-
-	// while _textHeight (by getTextHeight) is bigger than innterHeight
-	// OR ( maxSize is defined  AND fontsize > maxSize )
-	while (
-	    _height <= _textHeight 
-	    || 
-	    (
-	     settings.maxSize 
-	     && _fontSize > parseInt(settings.maxSize)
-	     )
-	    ) 
-	{
-	    if (settings.minSize && _fontSize <= parseInt(settings.minSize)) break;
-	    _fontSize--;
-	    _self.css('font-size', _fontSize + 'px');
-
-	    if(dbg) console.log('testing fontsize '+_fontSize+'px');
-	    _textHeight = parseInt(_self.autoSize('getTextHeight',_fontSize));
-	    if(dbg) console.log('textHeight now: '+_textHeight+'px');
-
-	}
-
-	_fontSize--;
-	_self.css('font-size', _fontSize + 'px');
 	
-	if(dbg) console.log('autoTextSize: finalSize:'+_fontSize);
-	});
-    }
-    };
+    var methods = {
+		init: function (options) {} ,	
 
+		/*sets fontsize for the text inside the hidden container*/		
+		setContFontsize: function(fontsize) {
+			var textSpan = $("BODY #autosizespan");
+			var textContainer = $("BODY #autosizecont");
+	    		textSpan.css('fontSize',fontsize);
+			},		
+		
+		initCont: function(width,text) {
+			console.log('autosize: init container')
+			var textSpan = $("BODY #autosizespan");
+			var textContainer = $("BODY #autosizecont");
+
+			/*set it to a fixed width according to the base div and copy text*/
+			textContainer.css( { "width": parseInt( this.css('width')),	});
+			textSpan.html(this.html());
+							
+			},
+			
+		/*determine Textheight using a textSpan inside a textContainer (hidden)*/
+		getTextHeight:  function() {
+			var textSpan = $("BODY #autosizespan");
+			var textContainer = $("BODY #autosizecont");
+			var height=0;
+			var dbg=true;
+
+			height = textContainer.innerHeight()+'px';
+			if(dbg)	console.log('getTextHeight: return height '+height);
+			return height;
+    	},
+
+		/*gets fontsize and obj of container
+		sets fontsize in container
+		measures tHeight
+		returns left space: iHeight - tHeight
+		*/
+		leftSpace: function(fontsize) {
+			var textSpan = $("BODY #autosizespan");
+			var textContainer = $("BODY #autosizecont");
+			textSpan.css('fontSize',fontsize+'px');
+			_tHeight = textContainer.innerHeight();
+			_iHeight = $(this).innerHeight();
+			var _val = _iHeight - _tHeight;
+			console.log('space left for fontsize='+fontsize+' -> '+_val);
+			return _val;
+			},
+
+		autoTextSize : function(options){
+			var settings = {
+	    		minSize:12,
+	    		maxSize:250,
+	    		debug:0
+			};
+			if(options) {console.log(options)}
+
+			$(this).autoSize('initCont');
+
+			return this.each(function() { 
+		    	if(options) $.extend(settings,options);
+		    	var dbg=settings.debug;
+		    	var _self = $(this);
+		    	
+		    	/* grab some data 
+					_iHeight = innerHeight of block to fill
+					_tHeight = actual / current textheight 		    	   	
+		    	*/
+		    	
+		    	/*start with biggest size possible:
+				choose tiny font, measure height, set to max. font		    			    	
+		    	*/
+				_self.css('font-size',8);
+				_iHeight = _self.innerHeight();
+				_fontSize = _iHeight;
+				console.log('setting font-size: '+ _fontSize ); 
+				_self.css('font-size', _fontSize);
+							
+				
+				var minFontSize = 10;
+				var maxFontSize = _iHeight;
+				var remainingSpaceMin=Math.floor(maxFontSize * 0.1);
+				var remainingSpaceMax=Math.floor(maxFontSize * 0.15);
+				
+				var spaceLeft = _self.autoSize('leftSpace',_iHeight);
+				
+				/*try to minimize spaceleft, so it is 
+				0< spacemin < spaceleft < spacemax < ...
+				*/
+				console.log('push spaceleft between min='
+				+remainingSpaceMin+' and max='
+				+remainingSpaceMax);
+				
+				var iters = 0;
+				while ( remainingSpaceMin > spaceLeft || spaceLeft > remainingSpaceMax	)
+				{
+					if(spaceLeft < remainingSpaceMin) {
+							console.log('font too big')
+							maxFontSize = _fontSize;				
+						}					
+						else if( spaceLeft > remainingSpaceMax ){
+							console.log('font too small')
+							minFontSize = _fontSize;							
+						}
+						else
+						{
+							console.log('---------> Bug! while-loop autosize!');
+							break;							
+						}
+							
+					_fontSize = Math.floor((maxFontSize+minFontSize) / 2);
+					
+					
+					if( (maxFontSize - minFontSize) < 3 ) {
+						console.log('converged');						
+						_fontSize = minFontSize;
+						spaceLeft = _self.autoSize('leftSpace',_fontSize);
+						console.log('spaceLeft:'+spaceLeft);	
+						break;
+						}					
+						
+					console.log('min:'+minFontSize+'  fs:'+_fontSize+'  max:'+maxFontSize);
+					spaceLeft = _self.autoSize('leftSpace',_fontSize);
+											
+					iters++;
+					if (iters > 10) break;		
+					
+				}
+		
+		_self.css('font-size', _fontSize + 'px');
+		
+		if(dbg) console.log('autoTextSize: finalSize:'+_fontSize);
+		});
+		}/*autotextsize*/
+    }; /*methods*/
 
 
     $.fn.autoSize = function( method ) {
@@ -102,26 +151,3 @@ autoTextSize :
 
 })(jQuery);
 
-
-jQuery.fn.css2 = jQuery.fn.css;
-jQuery.fn.css = function() {
-    if (arguments.length) return jQuery.fn.css2.apply(this, arguments);
-    var attr = ['font-family','font-size','font-weight','font-style','color',
-	'text-transform','text-decoration','letter-spacing','word-spacing',
-	    'line-height','text-align','vertical-align','direction','background-color',
-	    'background-image','background-repeat','background-position',
-	    'background-attachment','opacity','width','height','top','right','bottom',
-	    'left','margin-top','margin-right','margin-bottom','margin-left',
-	    'padding-top','padding-right','padding-bottom','padding-left',
-	    'border-top-width','border-right-width','border-bottom-width',
-	    'border-left-width','border-top-color','border-right-color',
-	    'border-bottom-color','border-left-color','border-top-style',
-	    'border-right-style','border-bottom-style','border-left-style','position',
-	    'display','visibility','z-index','overflow-x','overflow-y','white-space',
-	    'clip','float','clear','cursor','list-style-image','list-style-position',
-	    'list-style-type','marker-offset'];
-    var len = attr.length, obj = {};
-    for (var i = 0; i < len; i++) 
-	obj[attr[i]] = jQuery.fn.css2.call(this, attr[i]);
-    return obj;
-}
