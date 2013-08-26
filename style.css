@@ -1,0 +1,149 @@
+body {
+    font: 10px verdana, arial, helvetica, sans-serif;
+    background: #4f81bd;
+}
+
+.hide { display: none; }
+.highlight { background-color: #FFFF66; }
+.correct { background-color: #77FF77; }
+.wrong { background-color: #FF7777;}
+.nohighlight { background-color: #FFFF99;}
+.highlightblue { background-color: #6666FF;}
+.nohighlightblue { background-color: #66E6FF; }
+
+.GIlightblue { background-color: #c6d9f1; }
+.GIdarkblue { background-color: #4f81bd; }
+.GIgreen { background-color: #6fba2a; }
+
+#qbuttons, #question {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+
+#question {
+	background-color: #c6d9f1; 
+	}
+
+#question, .ansclass {
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -mox-border-radius: 10px;
+}
+
+/* 
+-ms-filter for IE8
+filter for IE 5.5 - 7
+*/
+#question, .ansclass {
+/*shadow*/   
+    -moz-box-shadow: 2px 2px 3px #007;
+    -webkit-box-shadow: 2px 2px 3px #007;
+    box-shadow: 2px 2px 3px #007;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000077')";
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=3, Direction=135, Color='#000077');
+}
+
+#question, #qbuttons, .anschar {
+    position: relative;
+    float: left;
+}
+
+.anstext {
+    position: relative;
+    float: left;
+}
+.anschar {
+	margin-right: 1%;	
+	}
+.containerclass {
+	width: 100%;
+	height: 100%;
+	padding: 1%;
+/*	margin: auto;*/	
+	}
+
+.ansclass, #question {
+    border: 1px solid black;
+}
+
+/* --- questions --- */
+
+#upper, #lower { width: 100% }
+#upper { height: 30%; }
+#lower { 
+    height: 68%; 
+ /*   margin: 1% 0 0 0;*/
+}
+
+#question {
+    height: 100%;
+}
+
+#question {
+/*   padding: 0 1% 0 1%;*/
+    width: 98%;
+}
+
+.anstext {
+    height: 100%;
+}
+
+#qbuttons {
+    width: 98%;
+    height: 98%;
+    z-index: 50;
+}
+
+.ansclass {
+    z-index:55;
+    width: 100%;
+    margin-top:1%;
+    height: 20%;
+}
+
+.anschar {
+    width:10%;
+    font-size: 1em;
+/*    margin: 0 0 0 1%;*/ 
+    height: 100%;
+}
+
+.anstext {
+    width:87%;
+    text-align: left;
+}
+
+#autosizecont {
+    top: 0;
+    left: 0;
+    position: absolute;
+    background: green;
+}
+
+#autosizespan {
+    background: yellow;
+}
+
+/* Resultspage */
+
+#resultstitle, #points {
+	width:100%;
+	color: #6fba2a;
+}
+
+#results {
+	height: 100%;
+	background-color: white;
+}
+#resultstitle {
+	height: 30%;
+}
+
+#points {
+	height: 60%;
+}
+

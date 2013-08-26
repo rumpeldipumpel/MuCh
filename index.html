@@ -1,0 +1,70 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+        <link rel="stylesheet" href="style.css" type="text/css" />
+	<!-- <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+        <script src="modules/jquery-1.7.1.min.js"></script> -->
+        <script src="modules/jquery-1.7.1.min.js"></script>
+         <script src="modules/jquery.json-2.3.min.js"></script>
+         
+        <script src="modules/autosize.js"></script>
+       <script src="fragebogen.js"></script>
+        <script src="modules/MuChDAF.js"></script>
+           <script src="modules/render.js"></script>
+           <script src="modules/handlers.js"></script>
+           <script src="modules/control.js"></script>
+        <title>MuChDAF</title> 
+    </head>
+    <body>
+    <style type="text/css" media="screen">
+    	html, body{
+    		margin:0;
+    		padding: 0;
+    		height: 100%;
+    	}
+        
+    </style>
+        <noscript><div id="nojs"><h2>JavaScript Disabled</h2>
+                <p>This application requires JavaScript to function. Please enable JavaScript, then reload this page</p>
+                <p>Diese Anwendung benötigt JavaScript. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.</div>
+        </noscript>
+
+		<div id="questions" class="containerclass">
+			<div id="upper">
+				<div id='question'>Frage</div>
+			</div>
+			
+			<div id="lower">
+				<div id="qbuttons">
+						<div id="A" class="ansclass">
+		               <div id="Achar" class="anschar">A</div>
+		               <div id="Atext" class="anstext">AntwortA</div>
+		           </div>
+		           <div id="B" class="ansclass">
+		               <div id="Bchar" class="anschar">B</div>
+		               <div id="Btext" class="anstext">Antwort B</div>
+		           </div>
+		           <div id="C" class="ansclass">
+		               <div id="Cchar" class="anschar">C</div>
+		               <div id="Ctext" class="anstext">Antwort C</div>
+		           </div>
+		           <div id="D" class="ansclass">
+		               <div id="Dchar" class="anschar">D</div>
+		               <div id="Dtext" class="anstext">Antwort D</div>
+		           </div>
+				</div>
+			</div>
+		</div> <!-- questions containerclass -->
+		<div id="results" class="hide">
+			<div id="resultstitle"></div>
+			<div id="points"></div>
+		</div>
+		
+		
+	<!-- temporary span node for max font-size determination -->
+	<div id='autosizecont' class="hide">
+	    <span id='autosizespan'></span>
+	</div>
+    </body>
+</html>
