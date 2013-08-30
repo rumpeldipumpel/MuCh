@@ -17,7 +17,7 @@ function MCDAF(options) {
  	this.cpause = false; /*clickpause*/
  	this.clickAnywhereToContinue = false;  /*click anywhere to continue to next question*/
    this.correctAnswers = 0; 	
-	this.numbOfQ = fragebogen.fragen.length; 	
+	this.numbOfQ = fragebogen.questions.length; 	
  	
  	this.currentQ = {
  		'idx' : -1, 
@@ -25,7 +25,7 @@ function MCDAF(options) {
  	};
  	
  	this.isLastQ = function () {
- 		console.log('isLastQ? '+this.currentQ.idx+'  length='+fragebogen.fragen.length );
+ 		console.log('isLastQ? '+this.currentQ.idx+'  length='+fragebogen.questions.length );
  		
 		if( this.currentQ.idx == this.numbOfQ -1 )
 		{

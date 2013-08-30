@@ -1,0 +1,128 @@
+abreißen,reißt ab,riss ab,hat abgerissen
+anbraten,brät an,briet an,hat angebraten
+anfangen,fängt an,fing an,hat angefangen
+beschließen,beschließt,beschloss,hat beschlossen
+besprechen,bespricht,besprach,hat besprochen
+bestehen,besteht,bestand,hat bestanden
+betragen,beträgt,betrug,hat betragen
+backen,bäckt,backte/buk,hat gebacken
+beginnen,beginnt,begann,hat begonnen
+bekommen,bekommt,bekam,hat bekommen
+benennen,benennt,benannte,hat benannt
+beraten,berät,beriet,hat beraten
+beschreiben,beschreibt,beschrieb,hat beschrieben
+bewerben (sich),bewirbt sich,bewarb sich,hat sich beworben
+bieten,bietet,bot,hat geboten
+bitten,bittet,bat,hat gebeten
+bleiben,bleibt,blieb,ist geblieben
+brechen,bricht,brach,hat gebrochen
+brennen,brennt,brannte,hat gebrannt
+bringen,bringt,brachte,hat gebracht
+denken,denkt,dachte,hat gedacht
+dürfen,darf,durfte,hat gedurft
+einladen,lädt ein,lud ein,hat eingeladen
+empfinden,empfindet,empfand,hat empfunden
+entscheiden,entscheidet,entschied,hat entschieden
+entschließen (sich),entschließt sich,entschloss sich,hat sich entschlossen
+entstehen,entsteht,entstand,ist entstanden
+erkennen,erkennt,erkannte,hat erkannt
+erscheinen,erscheint,erschien,ist erschienen
+erziehen,erzieht,erzog,hat erzogen
+essen,isst,aß,hat gegessen
+fahren,fährt,fuhr,ist gefahren
+fallen,fällt,fiel,ist gefallen
+fernsehen,sieht fern,sah fern,hat ferngesehen
+finden,findet,fand,hat gefunden
+fliegen,fliegt,flog,ist geflogen
+fließen,fließt,floss,ist geflossen
+geben,gibt,gab,hat gegeben
+gefallen,gefällt,gefiel,hat gefallen
+gehen,geht,ging,ist gegangen
+genießen,genießt,genoss,hat genossen
+gewinnen,gewinnt,gewann,hat gewonnen
+gießen,gießt,goss,hat gegossen
+halten,hält,hielt,hat gehalten
+hängen,hängt,hing,hat gehangen
+heben,hebt,hob,hat gehoben
+heißen,heißt,hieß,hat geheißen
+helfen,hilft,half,hat geholfen
+kennen,kennt,kannte,hat gekannt
+klingen,klingt,klang,hat geklungen
+kommen,kommt,kam,ist gekommen
+können,kann,konnte,hat gekonnt
+lassen,lässt,ließ,hat gelassen
+laufen,läuft,lief,ist gelaufen
+leiden,leidet,litt,hat gelitten
+leidtun,tut jmdm. leid,tat jmdm. leid,hat jmdm. leidgetan
+lesen,liest,las,hat gelesen
+liegen,liegt,lag,hat gelegen
+losrennen,rennt los,rannte los,ist losgerannt
+lügen,lügt,log,hat gelogen
+mögen,mag,mochte,hat gemocht
+müssen,muss,musste,hat gemusst
+nehmen,nimmt,nahm,hat genommen
+nennen,nennt,nannte,hat genannt
+pfeifen,pfeift,pfiff,hat gepfiffen
+raten,rät,riet,hat geraten
+reiten,reitet,ritt,ist geritten
+riechen,riecht,roch,hat gerochen
+rufen,ruft,rief,hat gerufen
+schlafen ,schläft,schlief,hat geschlafen
+schließen,erschließt,schloss,hat geschlossen
+scheinen,scheint,schien,hat geschienen
+schieben,schiebt,schob,hat geschoben
+schießen,schießt,schoss,hat geschossen
+schmelzen,schmilzt,schmolz,ist geschmolzen
+schneiden,schneidet,schnitt,hat geschnitten
+schreiben,schreibt,schrieb,hat geschrieben
+schreien,schreit,schrie,hat geschrien
+schweigen,schweigt,schwieg,hat geschwiegen
+schwimmen,schwimmt,schwamm,ist geschwommen
+sehen,sieht,sah,hat gesehen
+sein,ist,war,ist gewesen
+singen,singt,sang,hat gesungen
+sinken,sinkt,sank,ist gesunken
+sitzen,sitzt,saß,hat gesessen
+spinnen,spinnt,spann,hat gesponnen
+sprechen,spricht,sprach,hat gesprochen
+springen,springt,sprang,ist gesprungen
+stehen,steht,stand,hat gestanden
+stehlen,stiehlt,stahl,hat gestohlen
+steigen,steigt,stieg,ist gestiegen
+sterben,stirbt,starb,ist gestorben
+streichen,streicht,strich,hat gestrichen
+streiten,streitet,stritt,hat gestritten
+tragen,trägt,trug,hat getragen
+treffen,trifft,traf,hat getroffen
+treiben,treibt,trieb,hat getrieben
+trinken,trinkt,trank,hat getrunken
+tun,tut,tat,hat getan
+übertreiben,übertreibt,übertrieb,hat übertrieben
+unterbrechen,unterbricht,unterbrach,hat unterbrochen
+unterhalten,unterhält,unterhielt,hat unterhalten
+unterstreichen,unterstreicht,unterstrich,hat unterstrichen
+verbinden,verbindet,verband,hat verbunden
+verbringen,verbringt,verbrachte,hat verbracht
+vergehen,vergeht,verging,ist vergangen
+vergessen,vergisst,vergaß,hat vergessen
+vergleichen,vergleicht,verglich,hat verglichen
+verhalten (sich),verhält sich,verhielt sich,hat sich verhalten
+verlassen,verlässt,verließ,hat verlassen
+verlieren,verliert,verlor,hat verloren
+verschieben,verschiebt,verschob,hat verschoben
+verschlafen,verschläft,verschlief,hat verschlafen
+versprechen,verspricht,versprach,hat versprochen
+verstehen,versteht,verstand,hat verstanden
+vertreiben,vertreibt,vertrieb,hat vertrieben
+vorschlagen,schlägt vor,schlug vor,hat vorgeschIagen
+wachsen,wächst,wuchs,ist gewachsen
+waschen,wäscht,wusch,hat gewaschen
+wehtun,tut weh,tat weh,hat wehgetan
+werden,wird,wurde,ist geworden
+werfen,wirft,warf,hat geworfen
+widersprechen,widerspricht,widersprach,hat widersprochen
+wiegen,wiegt,wog,hat gewogen
+winken,winkt,winkte,hat gewunken/gewinkt
+wissen,weiß,wusste,hat gewusst
+zerbrechen,zerbricht,zerbrach,hat zerbrochen
+ziehen,zieht,zog,hat gezogen

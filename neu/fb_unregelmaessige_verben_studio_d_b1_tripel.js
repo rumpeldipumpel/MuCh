@@ -9,105 +9,105 @@ var fragebogen =
    "s": [
     "abreißen"
    ], 
-   "w": ["abgereisst","abgerisst","abgereissen"]
+   "w": []
   }, 
   {
    "q": "abreißen, ? , abgerissen", 
    "s": [
     "riss ab"
    ], 
-   "w": ["reißte ab","russte ab","risste ab"]
+   "w": []
   }, 
   {
    "q": "? , briet an, angebraten", 
    "s": [
     "anbraten"
    ], 
-   "w": ["anbrieten","anbreuten","anbruten"]
+   "w": []
   }, 
   {
    "q": "anbraten, ? , angebraten", 
    "s": [
     "briet an"
    ], 
-   "w": ["bratete an","brut an", "brot an"]
+   "w": []
   }, 
   {
    "q": "? , fing an, angefangen", 
    "s": [
     "anfangen"
    ], 
-   "w": ["anfingen","anfengen","anfungen"]
+   "w": []
   }, 
   {
    "q": "anfangen, ? , angefangen", 
    "s": [
     "fing an"
    ], 
-   "w": ["fung an","fangte an","fong an"]
+   "w": []
   }, 
   {
    "q": "? , beschloss, beschlossen", 
    "s": [
     "beschließen"
    ], 
-   "w": ["beschloßen","beschlußen","beschleßen"]
+   "w": []
   }, 
   {
    "q": "beschließen, ? , beschlossen", 
    "s": [
     "beschloss"
    ], 
-   "w": ["beschließte","beschliss","beschlaß"]
+   "w": []
   }, 
   {
    "q": "? , besprach, besprochen", 
    "s": [
     "besprechen"
    ], 
-   "w": ["besprachen","besprochen","bespruchen"]
+   "w": []
   }, 
   {
    "q": "besprechen, ? , besprochen", 
    "s": [
     "besprach"
    ], 
-   "w": ["bespruchte","bespruch","bespriechte"]
+   "w": []
   }, 
   {
    "q": "? , bestand, bestanden", 
    "s": [
     "bestehen"
    ], 
-   "w": ["bestanden","bestunden","bestienden"]
+   "w": []
   }, 
   {
    "q": "bestehen, ? , bestanden", 
    "s": [
     "bestand"
    ], 
-   "w": ["bestehte","bestind","bestiend"]
+   "w": []
   }, 
   {
    "q": "? , betrug, betragen", 
    "s": [
     "betragen"
    ], 
-   "w": ["betrugen","betragen","betrügen"]
+   "w": []
   }, 
   {
    "q": "betragen, ? , betragen", 
    "s": [
     "betrug"
    ], 
-   "w": ["betrügte","betragte","betrieg"]
+   "w": []
   }, 
   {
    "q": "? , backte/buk, gebacken", 
    "s": [
     "backen"
    ], 
-   "w": ["buken","beuken","bieken"]
+   "w": []
   }, 
   {
    "q": "backen, ? , gebacken", 
@@ -115,257 +115,257 @@ var fragebogen =
     "backte", 
     "buk"
    ], 
-   "w": ["bakte","buhk","bukte"]
+   "w": []
   }, 
   {
    "q": "? , begann, begonnen", 
    "s": [
     "beginnen"
    ], 
-   "w": ["begannen","begonnen","begienen"]
+   "w": []
   }, 
   {
    "q": "beginnen, ? , begonnen", 
    "s": [
     "begann"
    ], 
-   "w": ["begonn","beginnte","begiente"]
+   "w": []
   }, 
   {
    "q": "? , bekam, bekommen", 
    "s": [
     "bekommen"
    ], 
-   "w": ["bekamen","bekiem","bekämmen"]
+   "w": []
   }, 
   {
    "q": "bekommen, ? , bekommen", 
    "s": [
     "bekam"
    ], 
-   "w": ["bekommte","bekuhm","bekiem"]
+   "w": []
   }, 
   {
    "q": "? , benannte, benannt", 
    "s": [
     "benennen"
    ], 
-   "w": ["benannen","benunnen","benonnen"]
+   "w": []
   }, 
   {
    "q": "benennen, ? , benannt", 
    "s": [
     "benannte"
    ], 
-   "w": ["benennte","benunnte","benien"]
+   "w": []
   }, 
   {
    "q": "? , beriet, beraten", 
    "s": [
     "beraten"
    ], 
-   "w": ["berieten","beroten","beruten"]
+   "w": []
   }, 
   {
    "q": "beraten, ? , beraten", 
    "s": [
     "beriet"
    ], 
-   "w": ["beratete","berut","bereit"]
+   "w": []
   }, 
   {
    "q": "? , beschrieb, beschrieben", 
    "s": [
     "beschreiben"
    ], 
-   "w": ["beschrieben","beschroben","beschrüben"]
+   "w": []
   }, 
   {
    "q": "beschreiben, ? , beschrieben", 
    "s": [
     "beschrieb"
    ], 
-   "w": ["beschreibte","beschrub","bescheib"]
+   "w": []
   }, 
   {
    "q": "? , bewarb sich, sich beworben", 
    "s": [
     "bewerben (sich)"
    ], 
-   "w": ["bewarben (sich)","beworben (sich)","bewirben (sich)"]
+   "w": []
   }, 
   {
    "q": "bewerben (sich), ? , sich beworben", 
    "s": [
     "bewarb sich"
    ], 
-   "w": ["bewurb sich","bewerbte sich","beworbte sich"]
+   "w": []
   }, 
   {
    "q": "? , bot, geboten", 
    "s": [
     "bieten"
    ], 
-   "w": ["boten","baten","beten"]
+   "w": []
   }, 
   {
    "q": "bieten, ? , geboten", 
    "s": [
     "bot"
    ], 
-   "w": ["bietete","beite","buht"]
+   "w": []
   }, 
   {
    "q": "? , bat, gebeten", 
    "s": [
     "bitten"
    ], 
-   "w": ["bieten","beuten","beten"]
+   "w": []
   }, 
   {
    "q": "bitten, ? , gebeten", 
    "s": [
     "bat"
    ], 
-   "w": ["but","bittete","bot"]
+   "w": []
   }, 
   {
    "q": "? , blieb, geblieben", 
    "s": [
     "bleiben"
    ], 
-   "w": ["blibben","blieben","bluben"]
+   "w": []
   }, 
   {
    "q": "bleiben, ? , geblieben", 
    "s": [
     "blieb"
    ], 
-   "w": ["bliebte","bleibte","blub"]
+   "w": []
   }, 
   {
    "q": "? , brach, gebrochen", 
    "s": [
     "brechen"
    ], 
-   "w": ["bruchen","brochen","breuchen"]
+   "w": []
   }, 
   {
    "q": "brechen, ? , gebrochen", 
    "s": [
     "brach"
    ], 
-   "w": ["brechte","bruch","broch"]
+   "w": []
   }, 
   {
    "q": "? , brannte, gebrannt", 
    "s": [
     "brennen"
    ], 
-   "w": ["brannen","brunnen","bronnen"]
+   "w": []
   }, 
   {
    "q": "brennen, ? , gebrannt", 
    "s": [
     "brannte"
    ], 
-   "w": ["brunnte","brun","bronn"]
+   "w": []
   }, 
   {
    "q": "? , brachte, gebracht", 
    "s": [
     "bringen"
    ], 
-   "w": ["brachen","bruchen","briechen"]
+   "w": []
   }, 
   {
    "q": "bringen, ? , gebracht", 
    "s": [
     "brachte"
    ], 
-   "w": ["broch","brach","bruchte"]
+   "w": []
   }, 
   {
    "q": "? , dachte, gedacht", 
    "s": [
     "denken"
    ], 
-   "w": ["dachen","duchen","dachten"]
+   "w": []
   }, 
   {
    "q": "denken, ? , gedacht", 
    "s": [
     "dachte"
    ], 
-   "w": ["duchte","dochte","diechte"]
+   "w": []
   }, 
   {
    "q": "? , durfte, gedurft", 
    "s": [
     "dürfen"
    ], 
-   "w": ["durfen","derfen","dorfen"]
+   "w": []
   }, 
   {
    "q": "dürfen, ? , gedurft", 
    "s": [
     "durfte"
    ], 
-   "w": ["dürfte","durf","darf"]
+   "w": []
   }, 
   {
    "q": "? , lud ein, eingeladen", 
    "s": [
     "einladen"
    ], 
-   "w": ["einluden","einloden","einlieden"]
+   "w": []
   }, 
   {
    "q": "einladen, ? , eingeladen", 
    "s": [
     "lud ein"
    ], 
-   "w": ["lad ein","ladete ein","lod ein"]
+   "w": []
   }, 
   {
    "q": "? , empfand, empfunden", 
    "s": [
     "empfinden"
    ], 
-   "w": ["empfanden","empfunden","empfänden"]
+   "w": []
   }, 
   {
    "q": "empfinden, ? , empfunden", 
    "s": [
     "empfand"
    ], 
-   "w": ["empfindete","empfond","empfund"]
+   "w": []
   }, 
   {
    "q": "? , entschied, entschieden", 
    "s": [
     "entscheiden"
    ], 
-   "w": ["entschieden","entschaden","entschuden"]
+   "w": []
   }, 
   {
    "q": "entscheiden, ? , entschieden", 
    "s": [
     "entschied"
    ], 
-   "w": ["entscheidete","entschod","entschad"]
+   "w": []
   }, 
   {
    "q": "? , entschloss sich, sich entschlossen", 
    "s": [
     "entschließen (sich)"
    ], 
-   "w": ["enschlossen (sich)","entschlasen (sich)","entschlursen (sich)"]
+   "w": []
   }, 
   {
    "q": "entschließen (sich), ? , sich entschlossen", 
    "s": [
-    "entschloss sich","entschluss sich","entschließte sich"
+    "entschloss sich"
    ], 
    "w": []
   }, 
@@ -374,357 +374,357 @@ var fragebogen =
    "s": [
     "entstehen"
    ], 
-   "w": ["entstanden","entstunden","entstohen"]
+   "w": []
   }, 
   {
    "q": "entstehen, ? , entstanden", 
    "s": [
     "entstand"
    ], 
-   "w": ["entstehte","entstah","entstoh"]
+   "w": []
   }, 
   {
    "q": "? , erkannte, erkannt", 
    "s": [
     "erkennen"
    ], 
-   "w": ["erkönnen","erkunden","erkännen"]
+   "w": []
   }, 
   {
    "q": "erkennen, ? , erkannt", 
    "s": [
     "erkannte"
    ], 
-   "w": ["erkonnte","erkunnte","erkiente"]
+   "w": []
   }, 
   {
    "q": "? , erschien, erschienen", 
    "s": [
     "erscheinen"
    ], 
-   "w": ["erschönen“,“erscheunen","erschehen"]
+   "w": []
   }, 
   {
    "q": "erscheinen, ? , erschienen", 
    "s": [
     "erschien"
    ], 
-   "w": ["erscheinte","erschiehn","erschon"]
+   "w": []
   }, 
   {
    "q": "? , erzog, erzogen", 
    "s": [
     "erziehen"
    ], 
-   "w": ["erzogen","erzeugen","erzügen"]
+   "w": []
   }, 
   {
    "q": "erziehen, ? , erzogen", 
    "s": [
     "erzog"
    ], 
-   "w": ["erziehte","erzogte","erzüg"]
+   "w": []
   }, 
   {
    "q": "? , aß, gegessen", 
    "s": [
     "essen"
    ], 
-   "w": ["assen","asen","esen"]
+   "w": []
   }, 
   {
    "q": "essen, ? , gegessen", 
    "s": [
     "aß"
    ], 
-   "w": ["esste","eßte","eß"]
+   "w": []
   }, 
   {
    "q": "? , fuhr, gefahren", 
    "s": [
     "fahren"
    ], 
-   "w": ["fuhren","fähren","fehren"]
+   "w": []
   }, 
   {
    "q": "fahren, ? , gefahren", 
    "s": [
     "fuhr"
    ], 
-   "w": ["fahrte","fuhrte","fohr"]
+   "w": []
   }, 
   {
    "q": "? , fiel, gefallen", 
    "s": [
     "fallen"
    ], 
-   "w": ["fielen","fohlen","feilen"]
+   "w": []
   }, 
   {
    "q": "fallen, ? , gefallen", 
    "s": [
     "fiel"
    ], 
-   "w": ["fallte","fielte","falte"]
+   "w": []
   }, 
   {
    "q": "? , sah fern, ferngesehen", 
    "s": [
     "fernsehen"
    ], 
-   "w": ["fehrnsehen","feinsehen","fönsehen"]
+   "w": []
   }, 
   {
    "q": "fernsehen, ? , ferngesehen", 
    "s": [
     "sah fern"
    ], 
-   "w": ["fernsehte","fernsah","sah fernte"]
+   "w": []
   }, 
   {
    "q": "? , fand, gefunden", 
    "s": [
     "finden"
    ], 
-   "w": ["fanden","funden","fenden"]
+   "w": []
   }, 
   {
    "q": "finden, ? , gefunden", 
    "s": [
     "fand"
    ], 
-   "w": ["fund","fend","fond"]
+   "w": []
   }, 
   {
    "q": "? , flog, geflogen", 
    "s": [
     "fliegen"
    ], 
-   "w": ["fleigen","flugen","flogen"]
+   "w": []
   }, 
   {
    "q": "fliegen, ? , geflogen", 
    "s": [
     "flog"
    ], 
-   "w": ["fliegte","fleigte","flieh"]
+   "w": []
   }, 
   {
    "q": "? , floss, geflossen", 
    "s": [
     "fließen"
    ], 
-   "w": ["fleißen","flussen","flüssen"]
+   "w": []
   }, 
   {
    "q": "fließen, ? , geflossen", 
    "s": [
     "floss"
    ], 
-   "w": ["fließte","flusste","fluss"]
+   "w": []
   }, 
   {
    "q": "? , gab, gegeben", 
    "s": [
     "geben"
    ], 
-   "w": ["guben","gaben","goben"]
+   "w": []
   }, 
   {
    "q": "geben, ? , gegeben", 
    "s": [
     "gab"
    ], 
-   "w": ["gub","geib","gebte"]
+   "w": []
   }, 
   {
    "q": "? , gefiel, gefallen", 
    "s": [
     "gefallen"
    ], 
-   "w": ["feilen","fallen","gefeilen"]
+   "w": []
   }, 
   {
    "q": "gefallen, ? , gefallen", 
    "s": [
     "gefiel"
    ], 
-   "w": ["gefallte","gefahl","gefullte"]
+   "w": []
   }, 
   {
    "q": "? , ging, gegangen", 
    "s": [
     "gehen"
    ], 
-   "w": ["gingen","gangen","geigen"]
+   "w": []
   }, 
   {
    "q": "gehen, ? , gegangen", 
    "s": [
     "ging"
    ], 
-   "w": ["gong","gung","gang"]
+   "w": []
   }, 
   {
    "q": "? , genoss, genossen", 
    "s": [
     "genießen"
    ], 
-   "w": ["genossen","genasen","genesen"]
+   "w": []
   }, 
   {
    "q": "genießen, ? , genossen", 
    "s": [
     "genoss"
    ], 
-   "w": ["genießte","genüsste","genas"]
+   "w": []
   }, 
   {
    "q": "? , gewann, gewonnen", 
    "s": [
     "gewinnen"
    ], 
-   "w": ["gewunnen","gewannen","gewonnen"]
+   "w": []
   }, 
   {
    "q": "gewinnen, ? , gewonnen", 
    "s": [
     "gewann"
    ], 
-   "w": ["gewunn","gewon","wonnen"]
+   "w": []
   }, 
   {
    "q": "? , goss, gegossen", 
    "s": [
     "gießen"
    ], 
-   "w": ["geißen","gußen","goßen"]
+   "w": []
   }, 
   {
    "q": "gießen, ? , gegossen", 
    "s": [
     "goss"
    ], 
-   "w": ["gießte","guss","guß"]
+   "w": []
   }, 
   {
    "q": "? , hielt, gehalten", 
    "s": [
     "halten"
    ], 
-   "w": ["hielten","holten","heilten"]
+   "w": []
   }, 
   {
    "q": "halten, ? , gehalten", 
    "s": [
     "hielt"
    ], 
-   "w": ["heilte","haltete","hult"]
+   "w": []
   }, 
   {
    "q": "? , hing, gehangen", 
    "s": [
     "hängen"
    ], 
-   "w": ["hungen","höngen","hangen"]
+   "w": []
   }, 
   {
    "q": "hängen, ? , gehangen", 
    "s": [
     "hing"
    ], 
-   "w": ["hängte","hung","hong"]
+   "w": []
   }, 
   {
    "q": "? , hob, gehoben", 
    "s": [
     "heben"
    ], 
-   "w": ["huben","hebten","hüben"]
+   "w": []
   }, 
   {
    "q": "heben, ? , gehoben", 
    "s": [
     "hob"
    ], 
-   "w": ["hebte","hub","hupte"]
+   "w": []
   }, 
   {
    "q": "? , hieß, geheißen", 
    "s": [
     "heißen"
    ], 
-   "w": ["heissen","hussen","hosen"]
+   "w": []
   }, 
   {
    "q": "heißen, ? , geheißen", 
    "s": [
     "hieß"
    ], 
-   "w": ["huß","hos","has"]
+   "w": []
   }, 
   {
    "q": "? , half, geholfen", 
    "s": [
     "helfen"
    ], 
-   "w": ["halfen","hulfen","hilfen"]
+   "w": []
   }, 
   {
    "q": "helfen, ? , geholfen", 
    "s": [
     "half"
    ], 
-   "w": ["holf","helfte","hielfte"]
+   "w": []
   }, 
   {
    "q": "? , kannte, gekannt", 
    "s": [
     "kennen"
    ], 
-   "w": ["kunnen","konnen","kannen"]
+   "w": []
   }, 
   {
    "q": "kennen, ? , gekannt", 
    "s": [
     "kannte"
    ], 
-   "w": ["kennte","kunnte","könnte"]
+   "w": []
   }, 
   {
    "q": "? , klang, geklungen", 
    "s": [
     "klingen"
    ], 
-   "w": ["klangen","klungen","klongen"]
+   "w": []
   }, 
   {
    "q": "klingen, ? , geklungen", 
    "s": [
     "klang"
    ], 
-   "w": ["klingte","klung","klong"]
+   "w": []
   }, 
   {
    "q": "? , kam, gekommen", 
    "s": [
     "kommen"
    ], 
-   "w": ["kummen","kamen","kämmen"]
+   "w": []
   }, 
   {
    "q": "kommen, ? , gekommen", 
    "s": [
     "kam"
    ], 
-   "w": ["kommte","kömmte","kum"]
+   "w": []
   }, 
   {
    "q": "? , konnte, gekonnt", 
    "s": [
     "können"
    ], 
-   "w": ["kennen","keinen","kunden"]
+   "w": []
   }, 
   {
    "q": "können, ? , gekonnt", 

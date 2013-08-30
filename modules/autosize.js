@@ -12,7 +12,7 @@
 			},		
 		
 		initCont: function(width,text) {
-			console.log('autosize: init container')
+			if (dbg) console.log('autosize: init container')
 			var textSpan = $("BODY #autosizespan");
 			var textContainer = $("BODY #autosizecont");
 
@@ -46,7 +46,7 @@
 			_tHeight = textContainer.innerHeight();
 			_iHeight = $(this).innerHeight();
 			var _val = _iHeight - _tHeight;
-			console.log('space left for fontsize='+fontsize+' -> '+_val);
+			if (dbg) console.log('space left for fontsize='+fontsize+' -> '+_val);
 			return _val;
 			},
 
@@ -56,13 +56,13 @@
 	    		maxSize:250,
 	    		debug:0
 			};
-			if(options) {console.log(options)}
+			//if(options) {console.log(options)}
 
 			$(this).autoSize('initCont');
 
 			return this.each(function() { 
 		    	if(options) $.extend(settings,options);
-		    	var dbg=settings.debug;
+		    	var dbg=0;//settings.debug;
 		    	var _self = $(this);
 		    	
 		    	/* grab some data 
@@ -76,7 +76,7 @@
 				_self.css('font-size',8);
 				_iHeight = _self.innerHeight();
 				_fontSize = _iHeight;
-				console.log('setting font-size: '+ _fontSize ); 
+				if (dbg) console.log('setting font-size: '+ _fontSize ); 
 				_self.css('font-size', _fontSize);
 							
 				
@@ -90,7 +90,7 @@
 				/*try to minimize spaceleft, so it is 
 				0< spacemin < spaceleft < spacemax < ...
 				*/
-				console.log('push spaceleft between min='
+				if (dbg) console.log('push spaceleft between min='
 				+remainingSpaceMin+' and max='
 				+remainingSpaceMax);
 				
@@ -98,16 +98,16 @@
 				while ( remainingSpaceMin > spaceLeft || spaceLeft > remainingSpaceMax	)
 				{
 					if(spaceLeft < remainingSpaceMin) {
-							console.log('font too big')
+							if (dbg) console.log('font too big')
 							maxFontSize = _fontSize;				
 						}					
 						else if( spaceLeft > remainingSpaceMax ){
-							console.log('font too small')
+							if (dbg) console.log('font too small')
 							minFontSize = _fontSize;							
 						}
 						else
 						{
-							console.log('---------> Bug! while-loop autosize!');
+							if (dbg) console.log('---------> Bug! while-loop autosize!');
 							break;							
 						}
 							
@@ -115,14 +115,14 @@
 					
 					
 					if( (maxFontSize - minFontSize) < 3 ) {
-						console.log('converged');						
+						if (dbg) console.log('converged');						
 						_fontSize = minFontSize;
 						spaceLeft = _self.autoSize('leftSpace',_fontSize);
-						console.log('spaceLeft:'+spaceLeft);	
+						if (dbg) console.log('spaceLeft:'+spaceLeft);	
 						break;
 						}					
 						
-					console.log('min:'+minFontSize+'  fs:'+_fontSize+'  max:'+maxFontSize);
+					if (dbg) console.log('min:'+minFontSize+'  fs:'+_fontSize+'  max:'+maxFontSize);
 					spaceLeft = _self.autoSize('leftSpace',_fontSize);
 											
 					iters++;
