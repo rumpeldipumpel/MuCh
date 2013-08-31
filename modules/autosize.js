@@ -45,6 +45,14 @@
 			textSpan.css('fontSize',fontsize+'px');
 			_tHeight = textContainer.innerHeight();
 			_iHeight = $(this).innerHeight();
+		
+			_tWidth = textContainer.innerWidth();
+			_iWidth = $(this).innerWidth();
+
+			if(_iWidth - _tWidth < 0)	{
+					return -100;				
+				}					
+			
 			var _val = _iHeight - _tHeight;
 			if (dbg) console.log('space left for fontsize='+fontsize+' -> '+_val);
 			return _val;
@@ -75,6 +83,7 @@
 		    	*/
 				_self.css('font-size',8);
 				_iHeight = _self.innerHeight();
+				_iWidth = _self.innerWidth();
 				_fontSize = _iHeight;
 				if (dbg) console.log('setting font-size: '+ _fontSize ); 
 				_self.css('font-size', _fontSize);

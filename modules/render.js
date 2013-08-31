@@ -1,7 +1,15 @@
 MCDAF.prototype.nextQuestion = function() {
 	this.currentQ.idx+=1;	
 	var idx = this.currentQ.idx;
-	this.writeMC(idx)	
+	this.writeMC(this.qidxarray[idx])	
+	}
+
+MCDAF.prototype.renderText = function() {
+	//console.log('renderText');
+	
+	$('#question').autoSize('autoTextSize'); 
+   $('.anschar').autoSize('autoTextSize');   
+   $('.anstext').autoSize('autoTextSize');
 	}
 
 MCDAF.prototype.writeMC = function(qidx) {
@@ -13,7 +21,7 @@ MCDAF.prototype.writeMC = function(qidx) {
 	if(dbg) console.log('rendering: questionstr:'+questionstr );
  	$('#question').html(this.visTools.vertAligned( questionstr ),'left');
    /*$('#question').autoSize('autoTextSize',{minSize:15,maxSize:100});*/	
-	$('#question').autoSize('autoTextSize',{'debug':true});
+	//$('#question').autoSize('autoTextSize',{'debug':true});
 	
 	var solutions = fragestellung.s;
 	var wrongs = fragestellung.w;
@@ -55,14 +63,15 @@ MCDAF.prototype.writeMC = function(qidx) {
 		      
 		}	
  	
+ 	this.renderText();
  	}
  	
 MCDAF.prototype.setButtonText = function (letter,str) {
       $('#'+letter+'char').html(this.visTools.vertAligned('<b>'+letter+'</b>')); 
-      $('#'+letter+'char').autoSize('autoTextSize',{minSize:14,maxSize:100});   
+     // $('#'+letter+'char').autoSize('autoTextSize',{minSize:14,maxSize:100});   
          
       $('#'+letter+'text').html(this.visTools.vertAligned( str,'left'));
-      $('#'+letter+'text').autoSize('autoTextSize',{minSize:14,maxSize:100});
+      //$('#'+letter+'text').autoSize('autoTextSize',{minSize:14,maxSize:100});
 		$('#'+letter).show();			
 	} 	
  	

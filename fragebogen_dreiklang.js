@@ -3835,7 +3835,7 @@ var fragebogen =
    ]
   }, 
   {
-   "q": "?, schlug vor, vorgeschIagen", 
+   "q": "?, schlug vor, vorgeschlagen", 
    "s": [
     "vorschlagen"
    ], 
