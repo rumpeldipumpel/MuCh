@@ -29,7 +29,7 @@ function MCDAF(options) {
 	this.qidxarray = range(0,this.numbOfQ);
 	
 	this.qidxarray = shuffle_fisher_yates (this.qidxarray);
-	this.qidxarray.splice(5);
+	this.qidxarray.splice(30);
 	
 	console.log(this.qidxarray) 	
  	
