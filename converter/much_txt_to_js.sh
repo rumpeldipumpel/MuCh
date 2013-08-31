@@ -9,10 +9,14 @@ def parseInfile( ifn ):
 	length = len(lines)
 
 	fragen=[]
-	for i in range( 0, len(lines)-1, 3 ):
-		fragen.append( {"frage": lines[i], "antworten": lines[i+1].split(',') } )
+	for i in range( 0, len(lines)-1, 4 ):
+		qu = lines[i]
+		so = lines[i+1].split(',')
+		wr = lines[i+2].split(',')
 
-	fragebogen = { "titel":"notitle", "autor":"noautor", "fragen": fragen }
+		fragen.append( {"q": qu, "s":so, "w":wr } )
+
+	fragebogen = { "title":"notitle", "author":"noautor", "zquestions": fragen, "level":"", "descr":"" }
 
 	return fragebogen
 
@@ -36,8 +40,6 @@ def main(**kwargs):
 
 #	print sys.argv[0]
 #	print sys.argv[1]
-
-	fname = 'input.txt'
 
 	fragebogen = parseInfile( kwargs['infile'] )
 
