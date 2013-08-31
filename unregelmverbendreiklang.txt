@@ -1,0 +1,1536 @@
+?, riss ab, abgerissen
+abreißen
+abreisst,abgerisst,abreissen
+
+abreißen, ?, abgerissen
+riss ab
+reißte ab,russte ab,risste ab
+
+abreißen, riss ab, ? 
+abgerissen
+abgeriesen,abgerisst,abgeriss
+
+?, briet an, angebraten
+anbraten
+anbrieten,anbreuten,anbruten
+
+anbraten, ?, angebraten
+briet an
+bratete an,brut an,brot an
+
+anbraten, briet an, ? 
+angebraten
+angebrieten,angebruten,angebroten
+
+?, fing an, angefangen
+anfangen
+anfingen,anfengen,anfungen
+
+anfangen, ?, angefangen
+fing an
+fung an,fangte an,fong an
+
+anfangen, fing an, ? 
+angefangen
+angefingen,angefongen,angefengen
+
+?, beschloss, beschlossen
+beschließen
+beschloßen,beschlußen,beschleßen
+
+beschließen, ?, beschlossen
+beschloss
+beschließte,beschliss,beschlaß
+
+beschließen, beschloss, ? 
+beschlossen
+beschließen,beschlussen,beschlasen
+
+?, besprach, besprochen
+besprechen
+besprachen,besprochen,bespruchen
+
+besprechen, ?, besprochen
+besprach
+bespruchte,bespruch,bespriechte
+
+besprechen, besprach, ? 
+besprochen
+besprechen,besprachen,bespruchen
+
+?, bestand, bestanden
+bestehen
+bestanden,bestunden,bestienden
+
+bestehen, ?, bestanden
+bestand
+bestehte,bestind,bestiend
+
+bestehen, bestand, ? 
+bestanden
+bestunden,bestinden,bestonden
+
+?, betrug, betragen
+betragen
+betrugen,betragen,betrügen
+
+betragen, ?, betragen
+betrug
+betrügte,betragte,betrieg
+
+betragen, betrug, ? 
+betragen
+betrugen,betragen,betrügen
+
+?, backte/buk, gebacken
+backen
+buken,beuken,bieken
+
+backen, ?, gebacken
+backte, buk
+bakte,buhk,bukte
+
+backen, backte/buk, ? 
+gebacken
+gebuken,backen,backten
+
+?, begann, begonnen
+beginnen
+begannen,begonnen,begienen
+
+beginnen, ?, begonnen
+begann
+begonn,beginnte,begiente
+
+beginnen, begann, ? 
+begonnen
+beginne,begannen,begienen
+
+?, bekam, bekommen
+bekommen
+bekamen,bekiem,bekämmen
+
+bekommen, ?, bekommen
+bekam
+bekommte,bekuhm,bekiem
+
+bekommen, bekam, ? 
+bekommen
+bekamen,bekiemen,bekämmen
+
+?, benannte, benannt
+benennen
+benannen,benunnen,benonnen
+
+benennen, ?, benannt
+benannte
+benennte,benunnte,benien
+
+benennen, benannte, ? 
+benannt
+benannen,benonnen,benonnt
+
+?, beriet, beraten
+beraten
+berieten,beroten,beruten
+
+beraten, ?, beraten
+beriet
+beratete,berut,bereit
+
+beraten, beriet, ? 
+beraten
+berieten,beroten,beruten
+
+?, beschrieb, beschrieben
+beschreiben
+beschrieben,beschroben,beschrüben
+
+beschreiben, ?, beschrieben
+beschrieb
+beschreibte,beschrub,bescheib
+
+beschreiben, beschrieb, ? 
+beschrieben
+beschreiben,beschroben,beschrüben
+
+?, bewarb,  beworben
+bewerben 
+bewarben,beworben,bewirben 
+
+bewerben, ?,  beworben
+bewarb 
+bewurb,bewerbte,beworbte 
+
+bewerben, bewarb, ? 
+beworben
+bewerben,bewarben,bewurben
+
+?, bot, geboten
+bieten
+boten,baten,beten
+
+bieten, ?, geboten
+bot
+bietete,beite,buht
+
+bieten, bot, ? 
+geboten
+boten,gebieten,gebeten
+
+?, bat, gebeten
+bitten
+bieten,beuten,beten
+
+bitten, ?, gebeten
+bat
+but,bittete,bot
+
+bitten, bat, ? 
+gebeten
+bitten,gebaten,boten
+
+?, blieb, geblieben
+bleiben
+blibben,blieben,bluben
+
+bleiben, ?, geblieben
+blieb
+bliebte,bleibte,blub
+
+bleiben, blieb, ? 
+geblieben
+blieben,bleiben,gebleiben
+
+?, brach, gebrochen
+brechen
+bruchen,brochen,breuchen
+
+brechen, ?, gebrochen
+brach
+brechte,bruch,broch
+
+brechen, brach, ? 
+gebrochen
+broch,brechen,gebrechen
+
+?, brannte, gebrannt
+brennen
+brannen,brunnen,bronnen
+
+brennen, ?, gebrannt
+brannte
+brunnte,brun,bronn
+
+brennen, brannte, ? 
+gebrannt
+brennen,brannen,gebrennt
+
+?, brachte, gebracht
+bringen
+brachen,bruchen,briechen
+
+bringen, ?, gebracht
+brachte
+broch,brach,bruchte
+
+bringen, brachte, ? 
+gebracht
+brochte,gebrocht,gebraucht
+
+?, dachte, gedacht
+denken
+dachen,duchen,dachten
+
+denken, ?, gedacht
+dachte
+duchte,dochte,diechte
+
+denken, dachte, ?
+gedacht
+gedenkt,gedenken,dachten
+
+?, durfte, gedurft
+dürfen
+durfen,derfen,dorfen
+
+dürfen, ?, gedurft
+durfte
+dürfte,durf,darf
+
+dürfen, durfte, ? 
+gedurft
+gedürft,gedorft,gedarft
+
+?, lud ein, eingeladen
+einladen
+einluden,einloden,einlieden
+
+einladen, ?, eingeladen
+lud ein
+lad ein,ladete ein,lod ein
+
+einladen, lud ein, ? 
+eingeladen
+eingeluden,eingeloden,einladen
+
+?, empfand, empfunden
+empfinden
+empfanden,empfunden,empfänden
+
+empfinden, ?, empfunden
+empfand
+empfindete,empfond,empfund
+
+empfinden, empfand, ? 
+empfunden
+empfinden,empfonden,gempfindet
+
+?, entschied, entschieden
+entscheiden
+entschieden,entschaden,entschuden
+
+entscheiden, ?, entschieden
+entschied
+entscheidete,entschod,entschad
+
+entscheiden, entschied, ? 
+entschieden
+geentschieden,entgeschieden,entgescheidet
+
+?, entschloss,  entschlossen
+entschließen 
+enschlossen,entschlasen,entschlursen 
+
+entschließen, ?,  entschlossen
+entschloss 
+entschluss,entschluß,entschließte
+
+entschließen, entschloss, ? 
+entschlossen
+entschließt,entschliesst,entschlussen
+
+?, entstand, entstanden
+entstehen
+entstanden,entstunden,entstohen
+
+entstehen, ?, entstanden
+entstand
+entstehte,entstah,entstoh
+
+entstehen, entstand, ? 
+entstanden
+entstunden,entstenden,entstehen
+
+?, erkannte, erkannt
+erkennen
+erkönnen,erkunden,erkännen
+
+erkennen, ?, erkannt
+erkannte
+erkonnte,erkunnte,erkiente
+
+erkennen, erkannte, ? 
+erkannt
+erkennen,erkennt,erkonnt
+
+?, erschien, erschienen
+erscheinen
+erschönen,erscheunen,erschehen
+
+erscheinen, ?, erschienen
+erschien
+erscheinte,erschiehn,erschon
+
+erscheinen, erschien, ? 
+erschienen
+erscheinen,erschient,erscheunt
+
+?, erzog, erzogen
+erziehen
+erzogen,erzeugen,erzügen
+
+erziehen, ?, erzogen
+erzog
+erziehte,erzogte,erzüg
+
+erziehen, erzog, ? 
+erzogen
+erziehen,erzeugen,erzugen
+
+?, aß, gegessen
+essen
+assen,asen,esen
+
+essen, ?, gegessen
+aß
+esste,eßte,eß
+
+essen, aß, ? 
+gegessen
+geaßt,gegesst,essent
+
+?, fuhr, gefahren
+fahren
+fuhren,fähren,fehren
+
+fahren, ?, gefahren
+fuhr
+fahrte,fuhrte,fohr
+
+fahren, fuhr, ? 
+gefahren
+gefuhren,gefohren,gefiehren
+
+?, fiel, gefallen
+fallen
+fielen,fohlen,feilen
+
+fallen, ?, gefallen
+fiel
+fallte,fielte,falte
+
+fallen, fiel, ? 
+gefallen
+feilen,fallen,gefeilen
+
+?, sah fern, ferngesehen
+fernsehen
+fehrnsehen,feinsehen,fönsehen
+
+fernsehen, ?, ferngesehen
+sah fern
+fernsehte,fernsah,sah fernte
+
+fernsehen, sah fern, ? 
+ferngesehen
+gefernseht,gefernsah,ferngesah
+
+?, fand, gefunden
+finden
+fanden,funden,fenden
+
+finden, ?, gefunden
+fand
+fund,fend,fond
+
+finden, fand, ? 
+gefunden
+gefinden,gefanden,gefienden
+
+?, flog, geflogen
+fliegen
+fleigen,flugen,flogen
+
+fliegen, ?, geflogen
+flog
+fliegte,fleigte,flieh
+
+fliegen, flog, ? 
+geflogen
+gefliegt,geflügen,gelfleugt
+
+?, floss, geflossen
+fließen
+fleißen,flussen,flüssen
+
+fließen, ?, geflossen
+floss
+fließte,flusste,fluss
+
+fließen, floss, ? 
+geflossen
+gefließt,gefloß,geflussen
+
+?, gab, gegeben
+geben
+guben,gaben,goben
+
+geben, ?, gegeben
+gab
+gub,geib,gebte
+
+geben, gab, ? 
+gegeben
+gegaben,gebeten,gebeuten
+
+?, gefiel, gefallen
+gefallen
+feilen,fallen,gefeilen
+
+gefallen, ?, gefallen
+gefiel
+gefallte,gefahl,gefullte
+
+gefallen, gefiel, ? 
+gefallen
+feilen,fallen,gefeilen
+
+?, ging, gegangen
+gehen
+gingen,gangen,geigen
+
+gehen, ?, gegangen
+ging
+gong,gung,gang
+
+gehen, ging, ? 
+gegangen
+giengen,gegeht,gegungen
+
+?, genoss, genossen
+genießen
+genossen,genasen,genesen
+
+genießen, ?, genossen
+genoss
+genießte,genüsste,genas
+
+genießen, genoss, ? 
+genossen
+genießt,genisst,genasen
+
+?, gewann, gewonnen
+gewinnen
+gewunnen,gewannen,gewonnen
+
+gewinnen, ?, gewonnen
+gewann
+gewunn,gewon,wonnen
+
+gewinnen, gewann, ? 
+gewonnen
+gewinnt,gewunnen,gewohnen
+
+?, goss, gegossen
+gießen
+geißen,gußen,goßen
+
+gießen, ?, gegossen
+goss
+gießte,guss,guß
+
+gießen, goss, ? 
+gegossen
+gegießt,gegusst,gegüsst
+
+?, hielt, gehalten
+halten
+hielten,holten,heilten
+
+halten, ?, gehalten
+hielt
+heilte,haltete,hult
+
+halten, hielt, ? 
+gehalten
+geholten,halten,gehielten
+
+?, hing, gehangen
+hängen
+hungen,höngen,hangen
+
+hängen, ?, gehangen
+hing
+hängte,hung,hong
+
+hängen, hing, ? 
+gehangen
+gehungen,gehongen,gehängen
+
+?, hob, gehoben
+heben
+huben,hebten,hüben
+
+heben, ?, gehoben
+hob
+hebte,hub,hupte
+
+heben, hob, ? 
+gehoben
+geheben,gehobt,gehebt
+
+?, hieß, geheißen
+heißen
+heissen,hussen,hosen
+
+heißen, ?, geheißen
+hieß
+huß,hos,has
+
+heißen, hieß, ? 
+geheißen
+gehisst,gehießen,gehosen
+
+?, half, geholfen
+helfen
+halfen,hulfen,hilfen
+
+helfen, ?, geholfen
+half
+holf,helfte,hielfte
+
+helfen, half, ? 
+geholfen
+gehelft,gehalfen,gehalft
+
+?, kannte, gekannt
+kennen
+kunnen,konnen,kannen
+
+kennen, ?, gekannt
+kannte
+kennte,kunnte,könnte
+
+kennen, kannte, ? 
+gekannt
+gekennt,gekonnt,gekonnten
+
+?, klang, geklungen
+klingen
+klangen,klungen,klongen
+
+klingen, ?, geklungen
+klang
+klingte,klung,klong
+
+klingen, klang, ? 
+geklungen
+geklingt,geklangt,geklangen
+
+?, kam, gekommen
+kommen
+kummen,kamen,kämmen
+
+kommen, ?, gekommen
+kam
+kommte,kömmte,kum
+
+kommen, kam, ? 
+gekommen
+gekamen,gekommt,gekomen
+
+?, konnte, gekonnt
+können
+kennen,keinen,kunden
+
+können, ?, gekonnt
+konnte
+kannte,könnte,könnte
+
+können, konnte, ? 
+gekonnt
+gekönnt,gekunnt,gekannt
+
+?, ließ, gelassen
+lassen
+lesen,lasen,liesen
+
+lassen, ?, gelassen
+ließ
+lasste,laß,luste
+
+lassen, ließ, ? 
+gelassen
+geließt,geließen,gelasst
+
+?, lief, gelaufen
+laufen
+liefen,leufen,lufen
+
+laufen, ?, gelaufen
+lief
+luff,läufte,laufte
+
+laufen, lief, ? 
+gelaufen
+geluffen,geleuft,gelofen
+
+?, litt, gelitten
+leiden
+littern,litten,leitern
+
+leiden, ?, gelitten
+litt
+lott,latt,leidete
+
+leiden, litt, ? 
+gelitten
+gelotten,geluten,geleidet
+
+?, tat jmdm. leid, jmdm. leidgetan
+leidtun
+leider tun,leiden,litt
+
+leidtun, ?, jmdm. leidgetan
+tat jmdm. leid
+tut jmdm. leid,täte jmdm. leid,tate jmdm. leid
+
+leidtun, tat jmdm. leid, ? 
+jmdm. leidgetan
+jmdm. leidgetun,jmdm. leidgetäten,jmdm. leidgetuten
+
+?, las, gelesen
+lesen
+lasen,ließen,losen
+
+lesen, ?, gelesen
+las
+leste,laste,loste
+
+lesen, las, ? 
+gelesen
+lesen,gelasen,geließen
+
+?, lag, gelegen
+liegen
+lagen,legen,lügen
+
+liegen, ?, gelegen
+lag
+liegte,logte,lagte
+
+liegen, lag, ? 
+gelegen
+gelagen,gelogen,gelügte
+
+?, rannte los, losgerannt
+losrennen
+losrannen,losrunnen,losronnen
+
+losrennen, ?, losgerannt
+rannte los
+rennte los,runnte los,ronnte los
+
+losrennen, rannte los, ? 
+losgerannt
+losgerunnt,losgeronnt,losgerennt
+
+?, log, gelogen
+lügen
+logen,legen,lagen
+
+lügen, ?, gelogen
+log
+logte,lag,lügte
+
+lügen, log, ? 
+gelogen
+gelügt,gelügen,gelogte
+
+?, mochte, gemocht
+mögen
+möchten,mochten,mochen
+
+mögen, ?, gemocht
+mochte
+möchte,mögte,magte
+
+mögen, mochte, ? 
+gemocht
+gemagt,gemöcht,gemögt
+
+?, musste, gemusst
+müssen
+mussen,messen,musen
+
+müssen, ?, gemusst
+musste
+müsste,messte,muste
+
+müssen, musste, ? 
+gemusst
+gemüsst,gemosst,gemüse
+
+?, nahm, genommen
+nehmen
+nahmen,namen,nomen
+
+nehmen, ?, genommen
+nahm
+nehmte,nahmte,nommte
+
+nehmen, nahm, ? 
+genommen
+genehmte,genehmigte,genahmte
+
+?, nannte, genannt
+nennen
+nannen,nonnen,nienen
+
+nennen, ?, genannt
+nannte
+nennte,nonnte,nunnte
+
+nennen, nannte, ? 
+genannt
+genonnt,genennt,genunnt
+
+?, pfiff, gepfiffen
+pfeifen
+pfiffen,pfeufen,pfafen
+
+pfeifen, ?, gepfiffen
+pfiff
+pfeifte,pfeufte,pfuff
+
+pfeifen, pfiff, ? 
+gepfiffen
+gepfeuft,gepfifft,gepfeift
+
+?, riet, geraten
+raten
+ratten,rieten,roten
+
+raten, ?, geraten
+riet
+ratete,rietete,reute
+
+raten, riet, ? 
+geraten
+gerieten,geroten,rieten
+
+?, ritt, geritten
+reiten
+ritten,rittern,reitern
+
+reiten, ?, geritten
+ritt
+reitete,reutete,rutt
+
+reiten, ritt, ? 
+geritten
+gereitet,geruttet,gerittet
+
+?, roch, gerochen
+riechen
+reuchen,ruchen,rochen
+
+riechen, ?, gerochen
+roch
+riechte,rochte,ruch
+
+riechen, roch, ? 
+gerochen
+geriecht,geruchen,geruch
+
+?, rief, gerufen
+rufen
+riefen,reufen,rüfen
+
+rufen, ?, gerufen
+rief
+rufte,rüfte,riff
+
+rufen, rief, ? 
+gerufen
+geruft,gerieft,rufen
+
+?, schlief, geschlafen
+schlafen 
+schliefen,schleufen,schlufen
+
+schlafen, ?, geschlafen
+schlief
+schlafte,schleufte,schlaff
+
+schlafen, schlief, ? 
+geschlafen
+geschlieft,geschlaft,geschliefen
+
+?, schloss, geschlossen
+schließen
+schleißen,schlußen,schlossen
+
+schließen, ?, geschlossen
+schloss
+schließte,schleuste,schlosste
+
+schließen, schloss, ? 
+geschlossen
+geschließt,geschleust,schlasen
+
+?, schien, geschienen
+scheinen
+schienen,schönen,scheunen
+
+scheinen, ?, geschienen
+schien
+scheinte,schiente,schonnte
+
+scheinen, schien, ? 
+geschienen
+gescheinen,geschient,gescheint
+
+?, schob, geschoben
+schieben
+scheiben,schoben,schuben
+
+schieben, ?, geschoben
+schob
+schiebte,schobte,schab
+
+schieben, schob, ? 
+geschoben
+schab,geschieben,geschaben
+
+?, schoss, geschossen
+schießen
+scheußen,schoßen,schausen
+
+schießen, ?, geschossen
+schoss
+schass,schuss,schießte
+
+schießen, schoss, ? 
+geschossen
+geschießt,geschosst,scheußen
+
+?, schmolz, geschmolzen
+schmelzen
+schmolzen,schmilzen,schmalzen
+
+schmelzen, ?, geschmolzen
+schmolz
+schmalz,schmelzte,schmilzte
+
+schmelzen, schmolz, ? 
+geschmolzen
+geschmilzt,geschmelzt,schmolzen
+
+?, schnitt, geschnitten
+schneiden
+schnitten,schnotten,schnuten
+
+schneiden, ?, geschnitten
+schnitt
+schnott,schnipp,schnatt
+
+schneiden, schnitt, ? 
+geschnitten
+geschneidet,geschneiden,schnitten
+
+?, schrieb, geschrieben
+schreiben
+schrieben,schreuben,schrüben
+
+schreiben, ?, geschrieben
+schrieb
+schreibte,schribb,schrob
+
+schreiben, schrieb, ? 
+geschrieben
+geschribben,schrieben,geschreibt
+
+?, schrie, geschrien
+schreien
+schrien,schroen,schrauen
+
+schreien, ?, geschrien
+schrie
+schru,schra,schreite
+
+schreien, schrie, ? 
+geschrien
+geschreite,schreite,geschrieben
+
+?, schwieg, geschwiegen
+schweigen
+schwiegen,schwegen,schweden
+
+schweigen, ?, geschwiegen
+schwieg
+schwug,schweigte,schog
+
+schweigen, schwieg, ? 
+geschwiegen
+geschwogen,geschweigte,geschweigen
+
+?, schwamm, geschwommen
+schwimmen
+schwammen,schwommen,schwemmen
+
+schwimmen, ?, geschwommen
+schwamm
+schwimmte,schwemmte,schwomm
+
+schwimmen, schwamm, ? 
+geschwommen
+geschwammen,geschwimmt,geschwimmen
+
+?, sah, gesehen
+sehen
+sahen,sohen,siehen
+
+sehen, ?, gesehen
+sah
+sehte,sahte,sawte
+
+sehen, sah, ? 
+gesehen
+gesehen,gesahen,gesuhen
+
+?, war, gewesen
+sein
+wesen,wären,wurden
+
+sein, ?, gewesen
+war
+seinte,seit,wäre
+
+sein, war, ? 
+gewesen
+geseint,gewart,gewahren
+
+?, sang, gesungen
+singen
+sengen,sangen,sungen
+
+singen, ?, gesungen
+sang
+singte,sangte,sengte
+
+singen, sang, ? 
+gesungen
+gesingt,gesangt,gesungt
+
+?, sank, gesunken
+sinken
+sanken,sunken,senken
+
+sinken, ?, gesunken
+sank
+sinkte,senk,sunk
+
+sinken, sank, ? 
+gesunken
+sunk,sunken,gesinkt
+
+?, saß, gesessen
+sitzen
+sessen,sassen,seutzen
+
+sitzen, ?, gesessen
+saß
+sitzte,setzte,sesste
+
+sitzen, saß, ? 
+gesessen
+gesitzt,gesaßen,gesaßt
+
+?, spann, gesponnen
+spinnen
+spennen,sponnen,spannen
+
+spinnen, ?, gesponnen
+spann
+sponn,spinnte,spennte
+
+spinnen, spann, ? 
+gesponnen
+gespinnt,gepannen,gespannt
+
+?, sprach, gesprochen
+sprechen
+spruchen,sprachen,sprochen
+
+sprechen, ?, gesprochen
+sprach
+sprechte,spruch,spruchte
+
+sprechen, sprach, ? 
+gesprochen
+gesprecht,gesprechen,gesprachen
+
+?, sprang, gesprungen
+springen
+sprangen,sprungen,sprengen
+
+springen, ?, gesprungen
+sprang
+springte,sprung,sprong
+
+springen, sprang, ? 
+gesprungen
+gespringt,gespringen,gesprang
+
+?, stand, gestanden
+stehen
+standen,stunden,stenden
+
+stehen, ?, gestanden
+stand
+stehte,stund,stend
+
+stehen, stand, ? 
+gestanden
+gesteht,gestunden,stunden
+
+?, stahl, gestohlen
+stehlen
+stahlen,stählen,stohlen
+
+stehlen, ?, gestohlen
+stahl
+stehlte,stuhl,stohlte
+
+stehlen, stahl, ? 
+gestohlen
+gestehlen,gestehlte,gestahl
+
+?, stieg, gestiegen
+steigen
+stiegen,stügen,stogen
+
+steigen, ?, gestiegen
+stieg
+steigte,stiegte,stug
+
+steigen, stieg, ? 
+gestiegen
+gestugen,gestagen,gesteigen
+
+?, starb, gestorben
+sterben
+starben,sturben,störben
+
+sterben, ?, gestorben
+starb
+strub,sterbte,storb
+
+sterben, starb, ? 
+gestorben
+gesturben,gesterben,gesterbt
+
+?, strich, gestrichen
+streichen
+strichen,struchen,strachen
+
+streichen, ?, gestrichen
+strich
+streichte,strichte,strach
+
+streichen, strich, ? 
+gestrichen
+gestrachen,gestreicht,gestruchen
+
+?, stritt, gestritten
+streiten
+striten,strieten,straten
+
+streiten, ?, gestritten
+stritt
+streitete,strott,strett
+
+streiten, stritt, ? 
+gestritten
+gestreiten,gestreitet,streiten
+
+?, trug, getragen
+tragen
+trugen,trügen,trogen
+
+tragen, ?, getragen
+trug
+trog,trag,tragte
+
+tragen, trug, ? 
+getragen
+getrogen,getrügen,trogen
+
+?, traf, getroffen
+treffen
+trafen,trofen,triefen
+
+treffen, ?, getroffen
+traf
+treffte,troff,trafte
+
+treffen, traf, ? 
+getroffen
+getruffen,getrefft,getrafen
+
+?, trieb, getrieben
+treiben
+trauben,trieben,trüben
+
+treiben, ?, getrieben
+trieb
+treibte,tribb,trub
+
+treiben, trieb, ? 
+getrieben
+getrüben,getreiben,trieben
+
+?, trank, getrunken
+trinken
+tranken,tränken,trunken
+
+trinken, ?, getrunken
+trank
+trinkte,trenkte,trunk
+
+trinken, trank, ? 
+getrunken
+getrinkt,getrinken,getränke
+
+?, tat, getan
+tun
+tuten,taten,töten
+
+tun, ?, getan
+tat
+tutete,tunte,tante
+
+tun, tat, ? 
+getan
+getun,getante,getutet
+
+?, übertrieb, übertrieben
+übertreiben
+übertrieben,übertrüben,überreiben
+
+übertreiben, ?, übertrieben
+übertrieb
+übertreibte,übertrübt,übertrob
+
+übertreiben, übertrieb, ? 
+übertrieben
+übertrogen,übertreibt,übertrug
+
+?, unterbrach, unterbrochen
+unterbrechen
+unterbruchen,unterbrachen,unterbrochen
+
+unterbrechen, ?, unterbrochen
+unterbrach
+unterbruch,unterbroch,unterbrechte
+
+unterbrechen, unterbrach, ? 
+unterbrochen
+unterbrachen,untergebrochen,untergebrechen
+
+?, unterhielt, unterhalten
+unterhalten
+unterheilten,unterheilen,unterholen
+
+unterhalten, ?, unterhalten
+unterhielt
+unterhalteten,unterheilte,unterholte
+
+unterhalten, unterhielt, ? 
+unterhalten
+untergehalten,untergehielten,unterhielten
+
+?, unterstrich, unterstrichen
+unterstreichen
+unterstrichen,unterstreuchen,unterstruchen
+
+unterstreichen, ?, unterstrichen
+unterstrich
+unterstruch,unterstrach,unterstrichte
+
+unterstreichen, unterstrich, ? 
+unterstrichen
+untergestrichen,geunterstrichen,unterstrachen
+
+?, verband, verbunden
+verbinden
+verbunden,verbonden,verbeinden
+
+verbinden, ?, verbunden
+verband
+verbündete,verbindete,verbundete
+
+verbinden, verband, ? 
+verbunden
+verbonden,verbindet,verbeindet
+
+?, verbrachte, verbracht
+verbringen
+verbrachen,verbrauchen,verbrennen
+
+verbringen, ?, verbracht
+verbrachte
+verbauchte,verbringte,verbruchte
+
+verbringen, verbrachte, ? 
+verbracht
+verbrecht,verbringen,verbringt
+
+?, verging, vergangen
+vergehen
+vergingen,vergangen,vergungen
+
+vergehen, ?, vergangen
+verging
+vergehte,vergung,vergong
+
+vergehen, verging, ? 
+vergangen
+vergungen,vergongen,vergeht
+
+?, vergaß, vergessen
+vergessen
+vergeben,vergasen,vergießen
+
+vergessen, ?, vergessen
+vergaß
+vergesste,vergusste,vergoß
+
+vergessen, vergaß, ? 
+vergessen
+vergesste,vergaßen,vergoßen
+
+?, verglich, verglichen
+vergleichen
+vergliechen,verglachen,vergluchen
+
+vergleichen, ?, verglichen
+verglich
+vergluch,vergloch,verleichte
+
+vergleichen, verglich, ? 
+verglichen
+vergleichen,verluchte,vergluchen
+
+?, verhielt,  verhalten
+verhalten 
+verheilen,verhüllen,verhallen
+
+verhalten, ?,  verhalten
+verhielt 
+verheult,verhaltete,verhellt
+
+verhalten, verhielt, ? 
+verhalten
+vergehalten,vergehielten,verhielten
+
+?, verließ, verlassen
+verlassen
+verließen,verlesen,verlosen
+
+verlassen, ?, verlassen
+verließ
+verlasste,verluste,verloste
+
+verlassen, verließ, ? 
+verlassen
+verlosen,verlosstet,verlustet
+
+?, verlor, verloren
+verlieren
+verloren,verlaren,verleren
+
+verlieren, ?, verloren
+verlor
+verlierte,verlorte,verlehrte
+
+verlieren, verlor, ? 
+verloren
+verlieren,verluren,verlort
+
+?, verschob, verschoben
+verschieben
+verscheuben,verschüben,verschöben
+
+verschieben, ?, verschoben
+verschob
+verschiebte,verschub,verschobte
+
+verschieben, verschob, ? 
+verschoben
+verschuben,verschieben,verschubt
+
+?, verschlief, verschlafen
+verschlafen
+verschliefen,verschlaufen,verschleffen
+
+verschlafen, ?, verschlafen
+verschlief
+verschlafte,verschluff,verschlof
+
+verschlafen, verschlief, ? 
+verschlafen
+verschliefen,verschlofen,verschluffen
+
+?, versprach, versprochen
+versprechen
+versprachen,versprochen,verspreichen
+
+versprechen, ?, versprochen
+versprach
+versproch,verspruch,verspechte
+
+versprechen, versprach, ? 
+versprochen
+versprecht,versprechen,verpruchen
+
+?, verstand, verstanden
+verstehen
+verstanden,verstunden,verstenden
+
+verstehen, ?, verstanden
+verstand
+verstehte,verstund,verstunden
+
+verstehen, verstand, ? 
+verstanden
+verstehen,versteht,verstant
+
+?, vertrieb, vertrieben
+vertreiben
+vertrüben,vertruben,vertreuben
+
+vertreiben, ?, vertrieben
+vertrieb
+vertreibte,vertrub,vertrob
+
+vertreiben, vertrieb, ? 
+vertrieben
+vertreibt,vertreiben,vertroben
+
+?, schlug vor, vorgeschIagen
+vorschlagen
+vorschlugen,vorschleigen,vorschlägen
+
+vorschlagen, ?, vorgeschlagen
+schlug vor
+schlag vor,schleg vor,schleig vor
+
+vorschlagen, schlug vor, ? 
+vorgeschlagen
+vorschlagen,vorschlugen,vorgeschlugen
+
+?, wuchs, gewachsen
+wachsen
+wuchsen,wechsen,wochsen
+
+wachsen, ?, gewachsen
+wuchs
+wochs,wachste,wächste
+
+wachsen, wuchs, ? 
+gewachsen
+gewachst,wachsen,gewuchst
+
+?, wusch, gewaschen
+waschen
+wuschen,wäschen,woschen
+
+waschen, ?, gewaschen
+wusch
+wäschte,waschte,wuschte
+
+waschen, wusch, ? 
+gewaschen
+gewascht,waschen,gewusch
+
+?, tat weh, wehgetan
+wehtun
+wehtan,wotan,wehtuten
+
+wehtun, ?, wehgetan
+tat weh
+tut weh,tot weh,tutete weh
+
+wehtun, tat weh, ? 
+wehgetan
+wehgetun,wehgetut,wehtun
+
+?, wurde, geworden
+werden
+wurden,sein,war
+
+werden, ?, geworden
+wurde
+war,wäre,warte
+
+werden, wurde, ? 
+geworden
+gewerdet,gewurde,gewerden
+
+?, warf, geworfen
+werfen
+wurfen,warfen,würfeln
+
+werfen, ?, geworfen
+warf
+wurf,wurfte,werfte
+
+werfen, warf, ? 
+geworfen
+gewerft,gewurft,gewurfen
+
+?, widersprach, widersprochen
+widersprechen
+widerspruchen,widersprüchen,widersprachen
+
+widersprechen, ?, widersprochen
+widersprach
+widersprechte,widerspuch,widersproch
+
+widersprechen, widersprach, ? 
+widersprochen
+widersprechen,widersprachte,widersprechte
+
+?, wog, gewogen
+wiegen
+weigen,wogen,wegen
+
+wiegen, ?, gewogen
+wog
+wug,wiegte,wagte
+
+wiegen, wog, ? 
+gewogen
+gewiegt,gewogt,wiegen
+
+?, winkte, gewunken/gewinkt
+winken
+wunken,wanken,wenken
+
+winken, ?, gewunken/gewinkt
+winkte
+wank,wonk,wunk
+
+winken, winkte, ? 
+gewunken, gewinkt
+gewinken,winken,gewenkt
+
+?, wusste, gewusst
+wissen
+wussen,wessen,wossen
+
+wissen, ?, gewusst
+wusste
+wisste,weißte,wüsste
+
+wissen, wusste, ? 
+gewusst
+gewisst,gewissen,gewesen
+
+?, zerbrach, zerbrochen
+zerbrechen
+zerbrachen,zerbrochen,zerbräuchen
+
+zerbrechen, ?, zerbrochen
+zerbrach
+zerbruch,zerbroch,zerbrechte
+
+zerbrechen, zerbrach, ? 
+zerbrochen
+zerbrechen,zerbrecht,zerbrocht
+
+?, zog, gezogen
+ziehen
+zogen,zagen,zugen
+
+ziehen, ?, gezogen
+zog
+zug,zah,ziehte
+
+ziehen, zog, ? 
+gezogen
+gezügt,gezieht,geziehen
+
